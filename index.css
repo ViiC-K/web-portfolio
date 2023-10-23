@@ -79,7 +79,7 @@ ul {
   }
 
   .skill-card{
-    width: 200px;
+    width: 90%;
     height: 200px;
     display: flex;
     align-items: center;
